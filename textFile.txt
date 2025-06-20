@@ -1,1 +1,2 @@
-* this is textFile in master branch
+* this is textFile in feature1 branch
+* new update
